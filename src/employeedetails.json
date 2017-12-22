@@ -1,0 +1,8 @@
+[
+  {"name":"mahaboob","empId":"ac001","age":"28","mailId":"mahaboob1@gmail.com", "gender":"male"},
+  {"name":"mahaboob1","empId":"ac002","age":"38","mailId":"mahaboob2@gmail.com", "gender":"female"},
+  {"name":"mahaboob2","empId":"ac003","age":"48","mailId":"mahaboob3@gmail.com", "gender":"female"},
+  {"name":"mahaboo3","empId":"ac004","age":"58","mailId":"mahaboob4@gmail.com", "gender":"male"},
+  {"name":"mahaboob4","empId":"ac005","age":"18","mailId":"mahaboob5@gmail.com", "gender":"female"},
+  {"name":"mahaboob5","empId":"ac006","age":"58","mailId":"mahaboob6@gmail.com", "gender":"male"}
+]
